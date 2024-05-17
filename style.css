@@ -9,6 +9,7 @@ body{
 }
 //Universal Selector
 *{
+    margin: 0;
 }
 
 
