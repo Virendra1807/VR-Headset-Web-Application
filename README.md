@@ -1,2 +1,2 @@
 Link :  https://virendra1807.github.io/VR-Headset-Web-Application/
-In this project i maily used CSS.
+In this project I mainly used CSS.
